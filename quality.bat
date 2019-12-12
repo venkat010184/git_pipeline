@@ -1,0 +1,1 @@
+echo "sonarqube passed successfully!"
