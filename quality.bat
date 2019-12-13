@@ -1,1 +1,1 @@
-echo "sonarqube passed successfully!"
+echo "sonarqube passed successfully @ %date% : %time%"

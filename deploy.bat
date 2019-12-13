@@ -1,1 +1,1 @@
-echo "Deploy completed successfully!"
+echo "Deploy completed successfully @ %date% : %time%"
